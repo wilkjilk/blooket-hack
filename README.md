@@ -9,6 +9,7 @@
 - **Get Gold**
 - **End/Delete Game**
 - **Add 500 Tokens (Max)**
+- **Flood Game**
 <BR>**ADDING MORE SOON**
 ## 🤖 Features with Problems (will be fixed soon):
 
