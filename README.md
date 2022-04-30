@@ -8,7 +8,7 @@
 
 - **Get Gold**
 - **End/Delete Game**
-- **Add 1 Stat Win**
+- **Add 500 Tokens (Max)**
 <BR>**ADDING MORE SOON**
 ## 🤖 Features with Problems (will be fixed soon):
 
